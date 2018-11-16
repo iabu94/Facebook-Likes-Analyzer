@@ -1,0 +1,11 @@
+E:\VSProjects\FBLikesAnalyzer\FBLikesAnalyzer\bin\Debug\FBLikesAnalyzer.exe.config
+E:\VSProjects\FBLikesAnalyzer\FBLikesAnalyzer\bin\Debug\FBLikesAnalyzer.exe
+E:\VSProjects\FBLikesAnalyzer\FBLikesAnalyzer\bin\Debug\FBLikesAnalyzer.pdb
+E:\VSProjects\FBLikesAnalyzer\FBLikesAnalyzer\obj\Debug\FBLikesAnalyzer.FormFBLikes.resources
+E:\VSProjects\FBLikesAnalyzer\FBLikesAnalyzer\obj\Debug\FBLikesAnalyzer.Properties.Resources.resources
+E:\VSProjects\FBLikesAnalyzer\FBLikesAnalyzer\obj\Debug\FBLikesAnalyzer.csproj.GenerateResource.Cache
+E:\VSProjects\FBLikesAnalyzer\FBLikesAnalyzer\obj\Debug\FBLikesAnalyzer.exe
+E:\VSProjects\FBLikesAnalyzer\FBLikesAnalyzer\obj\Debug\FBLikesAnalyzer.pdb
+E:\VSProjects\FBLikesAnalyzer\FBLikesAnalyzer\obj\Debug\FBLikesAnalyzer.csprojResolveAssemblyReference.cache
+E:\VSProjects\FBLikesAnalyzer\FBLikesAnalyzer\obj\Debug\FBLikesAnalyzer.AnalyzeForm.resources
+E:\VSProjects\FBLikesAnalyzer\FBLikesAnalyzer\obj\Debug\FBLikesAnalyzer.CreateForm.resources
